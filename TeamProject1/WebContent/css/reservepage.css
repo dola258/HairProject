@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+	#table { display: table; width: 1200px; height: 600px; margin-left: auto; margin-right: auto;}
+	
+	.row {display: table-row; }
+	
+	.cell { display: table-cell; }
+	#td1-1 { background-color: #FFBF00; text-align: center; width: 20%; height: 90px;}
+	#td1-2 { background-color: #FFBF00; vertical-align: middle;}
+	#td2-1 { background-color: #FFBF00; width: 20%; }
+
+
+	a { color: black; text-decoration: none;}
+	#wpname {border-radius: 30px; text-align: center; width:100%; line-height: 2.4em; color: rgb(243, 156, 18); font-size: 21px; box-shadow: none; background-color: rgb(44, 62, 80); font-weight: bold; }
+			
+
+	.btn { width: 240px; background-color: #FFBF00; border-radius: 5px; font-size: 30px; border: 0; outline: 0; margin-left:auto; margin-right: auto;}
+	.btn:hover { background-color: #343d69; color: #FFBF00; }
+	img { width:50px; height:auto; float:left }
+	#officer { display:box; background-color:white; width:200px; height: 66px; margin: auto 2% auto auto; }	
+	#btn-impor { background-color: white; border-radius: 5px; }
+	#btn-logout { background-color: white; border-radius: 5px;}
